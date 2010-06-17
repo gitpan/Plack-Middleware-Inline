@@ -14,4 +14,4 @@ meta-spec:
 name: Plack-Middleware-Inline
 requires:
   Plack::Middleware: 0
-version: 0.01
+version: 0.02
